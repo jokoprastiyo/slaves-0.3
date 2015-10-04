@@ -1,0 +1,5 @@
+jQuery(document).ready(function() {
+	jQuery( '.wp-full-overlay-sidebar-content' ).prepend( '<a style="width: 80%; margin: 5px auto 20px auto; display: block; text-align: center; color: #da7a00;" href="https://wordpress.org/support/view/theme-reviews/slaves?filter=5" class="button" target="_blank">'+ slaves_buttons.rate +'</a>' );
+	jQuery( '.wp-full-overlay-sidebar-content' ).prepend( '<a style="width: 80%; margin: 5px auto 20px auto; display: block; text-align: center; color: #da7a00;" href="http://generasite.tk/" class="button" target="_blank">'+ slaves_buttons.doc +'</a>' );
+	jQuery( '.wp-full-overlay-sidebar-content' ).prepend( '<a style="width: 80%; margin: 20px auto 20px auto; display: block; text-align: center; color: #da7a00;" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5DSLYBLBML5M4" target="_blank">'+ slaves_buttons.pro +'</a>' );
+});

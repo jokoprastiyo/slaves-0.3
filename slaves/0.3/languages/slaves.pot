@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slaves\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Sep 03 2015 00:57:48 GMT+0645\n"
+"POT-Revision-Date: Sun Oct 04 2015 11:27:46 GMT+0645\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:40
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:46
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:49
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:52
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:55
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:58
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:61
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:64 ../inc/extras.php:62
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:25 ../content-single.php:28
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:30 ../content-single.php:69 ../inc/template-tags.php:71 ..
+#: /inc/template-tags.php:90
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../content-single.php:37 ../content-single.php:40
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:45
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to "
+"%4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:47
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:53
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:55
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content.php:29
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../footer.php:30
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:30
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../functions.php:60
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:84
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Footer Widgets"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Droid Sans, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:111
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Lobster, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:115
+msgctxt "Lobster font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:10 ../searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../inc/customizer.php:61
+msgid "Slaves Default Options"
+msgstr ""
+
+#: ../inc/customizer.php:75
+msgid ""
+"Select Column Layout for the page of the home, archive, category, search & "
+"tag."
+msgstr ""
+
+#: ../inc/customizer.php:96
+msgid "Do you want to display favicon?"
+msgstr ""
+
+#: ../inc/customizer.php:110
+msgid "Upload Favicon:"
+msgstr ""
+
+#: ../inc/customizer.php:125
+msgid "Input text of the title welcome message."
+msgstr ""
+
+#: ../inc/customizer.php:141
+msgid "Input of the welcome message."
+msgstr ""
+
+#: ../inc/customizer.php:158
+msgid "Do You want to display posts featured images?"
+msgstr ""
+
+#: ../inc/customizer.php:174
+msgid "Do You want to display Footer Widget?"
+msgstr ""
+
+#: ../inc/customizer.php:229
+msgid "Rate Slaves at Wordpress.org!"
+msgstr ""
+
+#: ../inc/customizer.php:230
+msgid "Get More Options, Upgrade to Slaves Pro!"
+msgstr ""
+
+#: ../inc/extras.php:59
+msgid "Category"
+msgstr ""
+
+#: ../inc/extras.php:60
+msgid "Tag"
+msgstr ""
+
+#: ../inc/extras.php:61
+msgid "Author"
+msgstr ""
+
+#: ../inc/extras.php:68 ../inc/extras.php:72
+msgid "Page "
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:81
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:87
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:180
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:188
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Slaves"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://generasite.tk/slaves-theme"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Slaves is a theme that is 100% mobile friendly so as to allow users to read "
+"or touch any buttons. Slaves quite simple but very suitable for business "
+"sites, e-commerce and personal blogs."
+msgstr ""
+
+#. Author of the theme
+msgid "Djemphols"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://generasite.tk/"
+msgstr ""
