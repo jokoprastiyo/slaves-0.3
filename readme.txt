@@ -4,7 +4,7 @@ Theme URI: http://generasite.tk/slaves-theme
 Description: Slaves is a theme that is 100% mobile friendly so as to allow users to read or touch any buttons. Slaves quite simple but very suitable for business sites, e-commerce and personal blogs
 Author: Djemphols
 Author URI: http://generasite.tk/
-Version: 0.3
+Version: 0.4
 License: GNU General Public License V2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: black, blue, gray, green, white, orange, dark, light, two-columns, three-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-header, custom-menu, editor-style, full-width-template, microformats, post-formats, sticky-post, threaded-comments, translation-ready
@@ -36,5 +36,5 @@ Copyright 2015 Slaves
  /* =Changelog
 -------------------------------------------------------------- */
   
-* Version 0.1 - 0.3:
+* Version 0.1 - 0.4:
 - Initial Realize
