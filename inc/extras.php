@@ -107,7 +107,13 @@ function slaves_excerptlength_themes($length) {
 	
 function slaves_excerptmore($more)
 {
-	return '... <div class="readmore"><a  rel="bookmark" href="' . get_permalink( get_the_ID() ) . '">Continue reading &raquo;</a></div>';
+	 $link = sprintf( '<a href="%1$s" class="more-link">%2$s</a>',
+esc_url( get_permalink( get_the_ID() ) ),
+ /* translators: %s: Name of current post */
+sprintf( __( 'Continue reading %s <div class="readmore">&rarr;</span>', 'slaves' ), '<span class="screen-reader-text">' . get_the_title( get_the_ID() ) . '</div>' )
+);
+return ' &hellip; ' . $link;
+ 
 }
 	add_filter('excerpt_length', 'slaves_excerptlength_themes');
 	add_filter('excerpt_more', 'slaves_excerptmore');
